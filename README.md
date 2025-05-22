@@ -1,7 +1,7 @@
-Hi there 👋 I'm Diane, a Data Analytics & Machine Learning Master's student at Imperial.
+Hi there 👋 I'm Diane,  a Data Analytics & Machine Learning Master's student at Imperial 🎀
 
-🔬 I love solving real-world health problems with code.  
-💻 Currently exploring deep learning, classification tasks & statistical modeling in Python.  
-🌱 Always learning, always curious.
+🔬 I love turning real-world health problems into data-driven solutions  
+💻 Currently exploring deep learning, classification models & statistical modelling in Python  
+🌱 Always learning, always curious. ☕️
 
-🧠 Projects coming soon! Stay tuned.
+✨ Projects dropping soon — stay tuned!
